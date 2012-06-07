@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Rubaci.cz</title>
+ <link href="http://3lancers.github.com/rubaci_cz/atom.xml" rel="self"/>
+ <link href="http://3lancers.github.com/rubaci_cz"/>
+ <updated>2012-06-07T23:13:07+02:00</updated>
+ <id>http://3lancers.github.com/rubaci_cz</id>
+ <author>
+   <name>Robert Cigan</name>
+   <email>robert@3lancers.cz</email>
+ </author>
+
+ 
+ <entry>
+   <title>Rubaci meetup #1</title>
+   <link href="http://3lancers.github.com/rubaci_cz/meetup/2012/06/07/meetup"/>
+   <updated>2012-06-07T00:00:00+02:00</updated>
+   <id>http://3lancers.github.com/rubaci_cz/meetup/2012/06/07/meetup</id>
+   <content type="html">&lt;h2 id='upekli_jsme_sraz'&gt;Upekli jsme sraz&lt;/h2&gt;
+
+&lt;p&gt;Začalo to všechno již strašně dávno, kdy Laco chtěl organizovat Ostravský sraz rubistů. Okolnosti tomu doposud nepřály, ale uběhl nějaký ten rok, místní komunita se rozrostla, a oblíbenost zejména Rails je o dost větší. Na nedávné konferenci &lt;a href='http://www.railsberry.com'&gt;Railsberry&lt;/a&gt; se to tak nějak upeklo. Zkusil jsem požádat o laskavé zapůjčení místnosti pro konání srazu p. Ing. Neulingera (ředitel CPITu) a ten byl velice ochotný, takže již tomu nic nebránilo.&lt;/p&gt;
+
+&lt;h2 id='report'&gt;Report&lt;/h2&gt;
+
+&lt;p&gt;Dne 22.5.2012 se tedy konal první sraz. Přišlo nás nečekaně 14, i když nutno podoktnout, že asi 80% účastníků se již znalo z dřívějška. Každopádně to bylo pěkné číslo a dali jsme dohromady celkem 3 přednášky, které akorát zaplnily čas určený přednáškám. Příště na to budeme mít víc času, takže klidně zvládnem i víc.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://www.facebook.com/media/set/?set=a.367020246689056.84381.361003787290702&amp;amp;type=3'&gt;Foto&lt;/a&gt; (autor Michal Hantl)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;představili jsme s Lacem koncepci srazu a jak bychom si to představovali&lt;/li&gt;
+
+&lt;li&gt;účastníci se představili a ukázali na jakých projektech pracují&lt;/li&gt;
+
+&lt;li&gt;přednášky&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id='pednky'&gt;Přednášky&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ladislav Martinčík - &lt;a href='http://www.slideshare.net/fukas78/programming-basics-13157856'&gt;Úvod do programování&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Robin Bortlík - Sinatra&lt;/li&gt;
+
+&lt;li&gt;Robert Cigán - &lt;a href='https://docs.google.com/presentation/d/11vQ9lXttIV1aHzjzFcK5fAkoTmmSaeGDkMU-xMqULjQ/edit'&gt;Redis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id='astnci'&gt;Účastníci&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ladislav Martinčík&lt;/li&gt;
+
+&lt;li&gt;Zdenko Nevrala&lt;/li&gt;
+
+&lt;li&gt;Robert Cigán&lt;/li&gt;
+
+&lt;li&gt;Martin Hladil&lt;/li&gt;
+
+&lt;li&gt;Tomáš Pavelka&lt;/li&gt;
+
+&lt;li&gt;Tomáš Cigán&lt;/li&gt;
+
+&lt;li&gt;Tomáš Witek&lt;/li&gt;
+
+&lt;li&gt;Richard Říman&lt;/li&gt;
+
+&lt;li&gt;Richard Lapiš&lt;/li&gt;
+
+&lt;li&gt;Lukáš Kamp&lt;/li&gt;
+
+&lt;li&gt;Jan Uhlář&lt;/li&gt;
+
+&lt;li&gt;Robin Bortlík&lt;/li&gt;
+
+&lt;li&gt;Michal Hantl&lt;/li&gt;
+
+&lt;li&gt;Roman Sklenář&lt;/li&gt;
+&lt;/ul&gt;</content>
+ </entry>
+ 
+ 
+</feed>

@@ -1,0 +1,11 @@
+
+http://3lancers.github.com/rubaci_cz/archive.html
+http://3lancers.github.com/rubaci_cz/atom.xml
+http://3lancers.github.com/rubaci_cz/categories.html
+http://3lancers.github.com/rubaci_cz/index.html
+http://3lancers.github.com/rubaci_cz/meetup-info.html
+http://3lancers.github.com/rubaci_cz/pages.html
+http://3lancers.github.com/rubaci_cz/sitemap.txt
+http://3lancers.github.com/rubaci_cz/tags.html
+
+http://3lancers.github.com/rubaci_cz/meetup/2012/06/07/meetup
