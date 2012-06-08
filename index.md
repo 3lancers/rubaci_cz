@@ -11,7 +11,7 @@ Pro všechny příznivce programovacího jazyka Ruby, frameworku Ruby on Rails, 
 
 Příhlášky na pravidelné srazy (meetup) na [srazy.info](http://srazy.info/rubaci-cz-meetup/2347)
 
-[Důležité informace o srazech](/meetup-info.html)
+[Důležité informace o srazech](meetup-info.html)
 
 [Github repozitář stránek](https://github.com/3lancers/rubaci_cz)
 
