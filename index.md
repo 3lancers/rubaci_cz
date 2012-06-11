@@ -9,23 +9,30 @@ Pro všechny příznivce programovacího jazyka Ruby, frameworku Ruby on Rails, 
 
 ## Základní informace
 
-Příhlášky na pravidelné srazy (meetup) na [srazy.info](http://srazy.info/rubaci-cz-meetup/2347)
+Příhlášky na pravidelné srazy (meetup) na [srazy.info](http://srazy.info/rubaci-cz-ruby-meetup/terminy/)
 
 [Github repozitář stránek](https://github.com/3lancers/rubaci_cz)
 
 Facebook profil [Rubaci.cz](http://www.facebook.com/rubaci), Twitter [@rubaci_cz](https://twitter.com/#!/rubaci_cz)
 
-## Následující meetup
+## Následující meetup 26.6.2012 16:00
 
-Předpokládaný termín 26.6.2012 (čekám na potvrzení od CPITu)
-    
+[Přihlášky účastníků a přednášek](http://srazy.info/rubaci-cz-ruby-meetup/2452)
+
+* Ladislav Martinčík - SOLID principy programování
+* Robin Bortlík - Shoes
+* Jan Uhlář - MongoDB a Mongoid
+
+
 ## Blog
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  <p>
+    <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date_to_string }} - {{ post.title }}</a>
+    <i>{{ post.tagline }}</i>
+  </p>
+{% endfor %}
+
 
 ## Srazy
 
