@@ -2,21 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Rubaci.cz</title>
- <link href="http://3lancers.github.com/rubaci_cz/atom.xml" rel="self"/>
- <link href="http://3lancers.github.com/rubaci_cz"/>
- <updated>2012-06-12T08:35:31+02:00</updated>
- <id>http://3lancers.github.com/rubaci_cz</id>
+ <link href="http://rubaci.cz/atom.xml" rel="self"/>
+ <link href="http://rubaci.cz"/>
+ <updated>2012-07-10T13:28:19+02:00</updated>
+ <id>http://rubaci.cz</id>
  <author>
    <name>Robert Cigan</name>
-   <email>robert@3lancers.cz</email>
+   <email>cigan.robert@gmail.com</email>
  </author>
 
  
  <entry>
+   <title>Rubaci meetup #2</title>
+   <link href="http://rubaci.cz/meetup/2012/06/26/new-post"/>
+   <updated>2012-06-26T00:00:00+02:00</updated>
+   <id>http://rubaci.cz/meetup/2012/06/26/new-post</id>
+   <content type="html">&lt;h2 id='report'&gt;Report&lt;/h2&gt;
+
+&lt;p&gt;Dne 26.6.2012 se konal druhý sraz. Kupodivu se nás sešlo opět dost a přivítali jsme mezi náma nové tváře i když se v tomto případě nejednalo přímo o Ruby vývojáře. O to víc nás to těší. Na programu jsme měli tři přednášky. Jak se ukázalo, tak Laco tu svou z časových důvodů zazdil, ale nakonec nám hezky povyprávěl o infrastruktuře na produkci projektu &lt;a href='http://www.foundum.org'&gt;foundum.org&lt;/a&gt;. Honza měl přednášku o Mongu a Robin nám ukázal docela zajímavou věc Shoes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://www.facebook.com/media/set/?set=a.387251584665922.88466.361003787290702&amp;amp;type=3'&gt;Foto&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;přednášky&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id='pednky'&gt;Přednášky&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jan Uhlář - &lt;a href='https://docs.google.com/presentation/d/1dLfJ4bls38igIxl4pv5YwX5AahAjTKkOk9yWXgAFMzI/edit'&gt;MongoDB a mongoid&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Robin Bortlík - Shoes&lt;/li&gt;
+
+&lt;li&gt;Ladislav Martinčík - improvizačne povyprávěl a ukázal produkční infrastrukturu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id='astnci'&gt;Účastníci&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ladislav Martinčík&lt;/li&gt;
+
+&lt;li&gt;Zdenko Nevrala&lt;/li&gt;
+
+&lt;li&gt;Robert Cigán&lt;/li&gt;
+
+&lt;li&gt;Martin Hladil&lt;/li&gt;
+
+&lt;li&gt;Tomáš Pavelka&lt;/li&gt;
+
+&lt;li&gt;Tomáš Witek&lt;/li&gt;
+
+&lt;li&gt;Richard Říman&lt;/li&gt;
+
+&lt;li&gt;Lukáš Kamp&lt;/li&gt;
+
+&lt;li&gt;Jan Uhlář&lt;/li&gt;
+
+&lt;li&gt;Robin Bortlík&lt;/li&gt;
+
+&lt;li&gt;Michal Hantl&lt;/li&gt;
+
+&lt;li&gt;Roman Sklenář&lt;/li&gt;
+
+&lt;li&gt;Jiří Urbášek&lt;/li&gt;
+&lt;/ul&gt;</content>
+ </entry>
+ 
+ <entry>
    <title>Rubaci meetup #1</title>
-   <link href="http://3lancers.github.com/rubaci_cz/meetup/2012/06/07/meetup"/>
-   <updated>2012-06-07T00:00:00+02:00</updated>
-   <id>http://3lancers.github.com/rubaci_cz/meetup/2012/06/07/meetup</id>
+   <link href="http://rubaci.cz/meetup/2012/05/22/meetup"/>
+   <updated>2012-05-22T00:00:00+02:00</updated>
+   <id>http://rubaci.cz/meetup/2012/05/22/meetup</id>
    <content type="html">&lt;h2 id='upekli_jsme_sraz'&gt;Upekli jsme sraz&lt;/h2&gt;
 
 &lt;p&gt;Začalo to všechno již strašně dávno, kdy Laco chtěl organizovat Ostravský sraz rubistů. Okolnosti tomu doposud nepřály, ale uběhl nějaký ten rok, místní komunita se rozrostla, a oblíbenost zejména Rails je o dost větší. Na nedávné konferenci &lt;a href='http://www.railsberry.com'&gt;Railsberry&lt;/a&gt; se to tak nějak upeklo. Zkusil jsem požádat o laskavé zapůjčení místnosti pro konání srazu p. Ing. Neulingera (ředitel CPITu) a ten byl velice ochotný, takže již tomu nic nebránilo.&lt;/p&gt;

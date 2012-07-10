@@ -15,14 +15,9 @@ Příhlášky na pravidelné srazy (meetup) na [srazy.info](http://srazy.info/ru
 
 Facebook profil [Rubaci.cz](http://www.facebook.com/rubaci), Twitter [@rubaci_cz](https://twitter.com/#!/rubaci_cz)
 
-## Následující meetup 26.6.2012 16:00
+## Následující meetup - asi někdy po prázdninách
 
-[Přihlášky účastníků a přednášek](http://srazy.info/rubaci-cz-ruby-meetup/2452)
-
-* Ladislav Martinčík - SOLID principy programování
-* Robin Bortlík - Shoes
-* Jan Uhlář - MongoDB a Mongoid
-
+Přihlášky účastníků a přednášek
 
 ## Blog
 
