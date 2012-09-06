@@ -15,9 +15,11 @@ Příhlášky na pravidelné srazy (meetup) na [srazy.info](http://srazy.info/ru
 
 Facebook profil [Rubaci.cz](http://www.facebook.com/rubaci), Twitter [@rubaci_cz](https://twitter.com/#!/rubaci_cz)
 
-## Následující meetup - asi někdy po prázdninách
+## Následující meetup #3 - 18.9.2012
 
-Přihlášky účastníků a přednášek
+[Srazy.info](http://srazy.info/rubaci-cz-ruby-meetup/2655)
+
+Přihlášky účastníků a přednášek - zatím nikdo
 
 ## Blog
 

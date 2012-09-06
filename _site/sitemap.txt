@@ -7,5 +7,5 @@ http://rubaci.cz/pages.html
 http://rubaci.cz/sitemap.txt
 http://rubaci.cz/tags.html
 
-http://rubaci.cz/meetup/2012/06/26/new-post
+http://rubaci.cz/meetup/2012/06/26/meetup
 http://rubaci.cz/meetup/2012/05/22/meetup

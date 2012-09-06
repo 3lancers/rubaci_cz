@@ -4,7 +4,7 @@
  <title>Rubaci.cz</title>
  <link href="http://rubaci.cz/atom.xml" rel="self"/>
  <link href="http://rubaci.cz"/>
- <updated>2012-07-10T13:28:19+02:00</updated>
+ <updated>2012-09-06T21:50:56+02:00</updated>
  <id>http://rubaci.cz</id>
  <author>
    <name>Robert Cigan</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Rubaci meetup #2</title>
-   <link href="http://rubaci.cz/meetup/2012/06/26/new-post"/>
+   <link href="http://rubaci.cz/meetup/2012/06/26/meetup"/>
    <updated>2012-06-26T00:00:00+02:00</updated>
-   <id>http://rubaci.cz/meetup/2012/06/26/new-post</id>
+   <id>http://rubaci.cz/meetup/2012/06/26/meetup</id>
    <content type="html">&lt;h2 id='report'&gt;Report&lt;/h2&gt;
 
 &lt;p&gt;Dne 26.6.2012 se konal druhý sraz. Kupodivu se nás sešlo opět dost a přivítali jsme mezi náma nové tváře i když se v tomto případě nejednalo přímo o Ruby vývojáře. O to víc nás to těší. Na programu jsme měli tři přednášky. Jak se ukázalo, tak Laco tu svou z časových důvodů zazdil, ale nakonec nám hezky povyprávěl o infrastruktuře na produkci projektu &lt;a href='http://www.foundum.org'&gt;foundum.org&lt;/a&gt;. Honza měl přednášku o Mongu a Robin nám ukázal docela zajímavou věc Shoes.&lt;/p&gt;
